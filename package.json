@@ -1,6 +1,6 @@
 {
   "name": "@surya-roxx/simple-progressbar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple React progress bar component",
   "main": "dist/index.js",
   "scripts": {
@@ -8,8 +8,8 @@
     "prepublishOnly": "npm run build"
   },
   "peerDependencies": {
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0 || ^17.0.0"
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "keywords": [
     "react",
